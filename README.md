@@ -1,1 +1,1 @@
-# Expense-Traker-by-chetana
+This project allows users to log their expenses, categorize them, set budgets, and generate insightful reports for better financial planning. Developed using modern web technologies such as HTML, CSS, JavaScript,# Expense-Traker-by-chetana
